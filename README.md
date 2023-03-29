@@ -21,7 +21,7 @@ You can check out the full presentation (available only in Italian) describing a
 
 * [GitHub](https://github.com/andreamaver)
 
-* [LinkedIn](https://www.linkedin.com/in/andrea-maver-b19047259/)
+* [LinkedIn](https://www.linkedin.com/in/andrea-maver/)
 
 **Anna Nava - Data Science Graduate @ University of Milano-Bicocca**
 
